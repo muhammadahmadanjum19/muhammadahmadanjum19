@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hello World, I'm Muhammad Ahmad Anjum
 
-<!--
-**muhammadahmadanjum19/muhammadahmadanjum19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my official digital hub and professional profile. I specialize in software engineering, technical systems, and secure web deployments.
 
-Here are some ideas to get you started:
+* **Official Website**: [anjum.pro](https://anjum.pro)
+* **GitHub**: [@muhammadahmadanjum19](https://github.com/muhammadahmadanjum19)
+* **LinkedIn**: [muhammadahmadanjum](https://www.linkedin.com/in/muhammadahmadanjum)
+* **X (Twitter)**: [@m_ahmad_anjum](https://x.com/m_ahmad_anjum)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Core Focus & Technologies
+* Systems Architecture & Automation
+* Secure Web Deployments & Infrastructure
+* Modern Frontend Engineering & Design Systems
